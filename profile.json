@@ -5,350 +5,147 @@
   "author": "Mika",
   "url": "https://newdays-git.github.io/vpm/profile.json",
   "packages": {
-    "nadena.dev.modular-avatar": {
+    "com.github.kurotu.vrc-quest-tools": {
       "versions": {
-        "1.6.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.6.0",
+        "1.12.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.12.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
           "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
+            "name": "kurotu"
           },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.6.0/nadena.dev.modular-avatar-1.6.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
           "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
+            "com.unity.nuget.newtonsoft-json": "2.0.2"
           },
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.12.1/com.github.kurotu.vrc-quest-tools-1.12.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
           }
         },
-        "1.5.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.5.1",
+        "1.12.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.12.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
           "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.5.1/nadena.dev.modular-avatar-1.5.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
+            "name": "kurotu"
           },
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.12.0/com.github.kurotu.vrc-quest-tools-1.12.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
           }
         },
-        "1.5.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.5.0",
+        "1.11.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.11.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
           "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.5.0/nadena.dev.modular-avatar-1.5.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
+            "name": "kurotu"
           },
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
+            "com.vrchat.avatars": "^3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.11.0/com.github.kurotu.vrc-quest-tools-1.11.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
           }
         },
-        "1.4.5": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.5",
+        "1.10.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.10.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
           "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.5/nadena.dev.modular-avatar-1.4.5.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
+            "name": "kurotu"
           },
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.10.1/com.github.kurotu.vrc-quest-tools-1.10.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
           }
         },
-        "1.4.4": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.4",
+        "1.10.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.10.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
           "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.4/nadena.dev.modular-avatar-1.4.4.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
+            "name": "kurotu"
           },
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.10.0/com.github.kurotu.vrc-quest-tools-1.10.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
           }
         },
-        "1.4.3": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.3",
+        "1.9.1": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.9.1",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
           "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.3/nadena.dev.modular-avatar-1.4.3.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
+            "name": "kurotu"
           },
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.9.1/com.github.kurotu.vrc-quest-tools-1.9.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
           }
         },
-        "1.4.2": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.2",
+        "1.9.0": {
+          "name": "com.github.kurotu.vrc-quest-tools",
+          "version": "1.9.0",
+          "displayName": "VRCQuestTools",
+          "description": "Editor extension to support uploading VRChat Quest avatars",
           "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.2/nadena.dev.modular-avatar-1.4.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
+            "name": "kurotu"
           },
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
+            "com.vrchat.avatars": ">=3.1.1"
+          },
+          "url": "https://github.com/kurotu/VRCQuestTools/releases/download/v1.9.0/com.github.kurotu.vrc-quest-tools-1.9.0.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\VRCQuestTools": "bb6bc9dbb414049cebd82117a7ccb2c1"
           }
-        },
-        "1.4.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.1/nadena.dev.modular-avatar-1.4.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.4.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.4.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.4.0/nadena.dev.modular-avatar-1.4.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.3.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.3.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.3.0/nadena.dev.modular-avatar-1.3.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.2.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.2.1",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.1/nadena.dev.modular-avatar-1.2.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.2.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.2.0",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.2.0/nadena.dev.modular-avatar-1.2.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.1.2": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.1.2",
-          "unity": "2019.4",
-          "description": "A suite of tools for assembling your avatar out of reusable components",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.2/nadena.dev.modular-avatar-1.1.2.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
+        }
+      }
+    },
+    "com.github.kurotu.material-replacer": {
+      "versions": {
         "1.1.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
+          "name": "com.github.kurotu.material-replacer",
           "version": "1.1.1",
+          "displayName": "Material Replacer",
+          "description": "Editor extension to replace materials at once",
           "unity": "2019.4",
-          "description": "",
           "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
+            "name": "kurotu"
           },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.1/nadena.dev.modular-avatar-1.1.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": ">=3.1.9",
-            "com.vrchat.avatars": ">=3.1.9"
-          }
-        },
-        "1.1.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.1.0",
-          "unity": "2019.4",
-          "description": "",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.1.0/nadena.dev.modular-avatar-1.1.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": "3.1.9",
-            "com.vrchat.avatars": "3.1.9"
-          }
-        },
-        "1.0.1": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.0.1",
-          "unity": "2019.4",
-          "description": "",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.1/nadena.dev.modular-avatar-1.0.1.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": "3.1.9",
-            "com.vrchat.avatars": "3.1.9"
-          }
-        },
-        "1.0.0": {
-          "name": "nadena.dev.modular-avatar",
-          "displayName": "Modular Avatar",
-          "version": "1.0.0",
-          "unity": "2019.4",
-          "description": "",
-          "author": {
-            "name": "bd_",
-            "email": "bd_@nadena.dev",
-            "url": "https://github.com/bdunderscore/modular-avatar"
-          },
-          "url": "https://github.com/bdunderscore/modular-avatar/releases/download/1.0.0/nadena.dev.modular-avatar-1.0.0.zip?",
-          "repo": "https://vpm.nadena.dev/vpm.json",
-          "dependencies": {
-            "com.unity.nuget.newtonsoft-json": "2.0.0"
-          },
-          "vpmDependencies": {
-            "com.vrchat.base": "3.1.9",
-            "com.vrchat.avatars": "3.1.9"
+          "vpmDependencies": {},
+          "url": "https://github.com/kurotu/MaterialReplacer/releases/download/v1.1.1/com.github.kurotu.material-replacer-1.1.1.zip?",
+          "legacyFolders": {
+            "Assets\\KRT\\MaterialReplacer": ""
           }
         }
       }
