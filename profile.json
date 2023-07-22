@@ -2,7 +2,7 @@
   "name": "VRChat",
   "id": "io.github.vpm",
   "author": "Mika",
-  "url": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+  "url": "https://raw.githubusercontent.com/newdays-git/vpm/main/profile.json",
   "packages": {
     "nadena.dev.modular-avatar": {
       "versions": {
