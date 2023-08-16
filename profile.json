@@ -578,8 +578,46 @@
             "com.vrchat.avatars": "3.1.9"
           }
         }
+      },
+      "com.poiyomi.toon":{
+
+        "versions":{
+          "8.1.167":{
+            "name":"com.poiyomi.toon",
+            "displayName":"Poiyomi Toon Shader",
+            "version":"8.1.167",
+            "unity":"2019.4",
+            "description":"Feature-rich shaders for Unity and VRChat.",
+            "gitDependencies":{},
+            "vpmDependencies":{},
+            "author":{"name":"Poiyomi"},
+            "hideInEditor":false,
+            "license":"MIT",
+            "zipSHA256":"7e98ccf2a9e6afc1f9e1ffab0130aefde1a869925c4851270a4dc0faf872efa7",
+            "url":"https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.167/com.poiyomi.toon-8.1.167.zip",
+            "legacyFolders":{"Assets\\_PoiyomiShaders":"2fcadee009b41d847ac672dd72e80430"},
+            "legacyFiles":{},
+            "localPath":".\\Packages\\com.poiyomi.toon"
+          },
+          "8.1.166":{
+            "name":"com.poiyomi.toon",
+            "displayName":"Poiyomi Toon Shader",
+            "version":"8.1.166",
+            "unity":"2019.4",
+            "description":"Feature-rich shaders for Unity and VRChat.",
+            "gitDependencies":{},
+            "vpmDependencies":{},
+            "author":{"name":"Poiyomi"},
+            "hideInEditor":false,
+            "license":"MIT",
+            "zipSHA256":"1182b1e3b75a98d6c737fcd186bbff2f531d0a2702055459e430d40d88e352c3",
+            "url":"https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.166/com.poiyomi.toon-8.1.166.zip",
+            "legacyFolders":{"Assets\\_PoiyomiShaders":"2fcadee009b41d847ac672dd72e80430"},
+            "legacyFiles":{},
+            "localPath":".\\Packages\\com.poiyomi.toon"
+          }
+        }
+      }
       }
     }
-
   }
-}
