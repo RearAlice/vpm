@@ -578,25 +578,25 @@
             "com.vrchat.avatars": "3.1.9"
           }
         }
-      },
-      {
-        "name" : "com.vrchat.UnityShader_TextureOverlay",
-        "displayName" : "Texture Overlay Shader",
-        "version" : "1.22.0",
-        "author": {
-          "name": "AoiKamishiro"
-        },
-        "unity" : "2019.4",
-        "description" : "Tools for easier Avatar Creation",
-        "vpmDependencies" : {
-          "com.vrchat.avatars" : "3.1.0"
-        },
-        "url" : "https://github.com/AoiKamishiro/UnityShader_TextureOverlay/archive/refs/tags/v1.22.zip",
-        "legacyFolders" : {
-          "Assets\\00Kamishiro\\TextureOverlay" : "vr031f928e5c709x9887f6513084aaa51"
-        }
       }
 
+    },
+    {
+      "name" : "com.vrchat.UnityShader_TextureOverlay",
+      "displayName" : "Texture Overlay Shader",
+      "version" : "1.22.0",
+      "author": {
+        "name": "AoiKamishiro"
+      },
+      "unity" : "2019.4",
+      "description" : "Tools for easier Avatar Creation",
+      "vpmDependencies" : {
+        "com.vrchat.avatars" : "3.1.0"
+      },
+      "url" : "https://github.com/AoiKamishiro/UnityShader_TextureOverlay/archive/refs/tags/v1.22.zip",
+      "legacyFolders" : {
+        "Assets\\00Kamishiro\\TextureOverlay" : "vr031f928e5c709x9887f6513084aaa51"
+      }
     }
 
   }
