@@ -581,7 +581,7 @@
       }
 
     },
-    {
+    "com.vrchat.UnityShader_TextureOverlay": {
       "name" : "com.vrchat.UnityShader_TextureOverlay",
       "displayName" : "Texture Overlay Shader",
       "version" : "1.22.0",
